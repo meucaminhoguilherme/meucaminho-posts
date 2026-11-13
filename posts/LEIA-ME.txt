@@ -1,0 +1,2 @@
+Artes dos posts do Instagram @meucaminho.empresas.
+Padrão de nome: AAAA-MM-DD_dia_tema_NN.jpg (NN = ordem no carrossel).
